@@ -50,6 +50,10 @@ Looking forward, the scalability and adaptability of AeRoom promise a wide range
 Here are some screenshots of our application's interface: 
 
 ![Application interface](images/Screenshot-1.png)
+![Application interface](images/Screenshot-2.png)
+![Application interface](images/Screenshot-3.png)
+![Application interface](images/Screenshot-4.png)
+![Application interface](images/Screenshot-5.png)
 
 ## Licence:
 
