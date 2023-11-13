@@ -1,6 +1,6 @@
 # AeRoom
 
-Last year, I had the incredible opportunity to work on a groundbreaking project, AeRoom, focused on improving air quality in enclosed spaces. Our innovative electronic case, equipped with an advanced ML model, monitors and manages air quality by analyzing data from various sensors and predicting future air conditions. This enables the activation of automated air control devices like fans, air filters, and alarms to maintain optimal air quality.
+Last year, we had the incredible opportunity to work on a groundbreaking project, AeRoom, focused on improving air quality in enclosed spaces. Our innovative electronic case, equipped with an advanced ML model, monitors and manages air quality by analyzing data from various sensors and predicting future air conditions. This enables the activation of automated air control devices like fans, air filters, and alarms to maintain optimal air quality.
 
 ## Project Overview:
 
