@@ -49,7 +49,7 @@ Looking forward, the scalability and adaptability of AeRoom promise a wide range
 
 Here are some screenshots of our application's interface: 
 
-![Application interface](/Users/ignisbreath/Downloads/Screenshot-1.png)
+![Application interface](Screenshot-1.png)
 
 ## Licence:
 
