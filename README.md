@@ -44,6 +44,13 @@ The successful development and implementation of AeRoom's electronic case, equip
 
 Looking forward, the scalability and adaptability of AeRoom promise a wide range of applications, from residential homes to industrial settings. As we continue to refine our model and expand our understanding of environmental data, we remain focused on our mission to contribute to a healthier, safer living and working environments for all.
 
+
+## Screenshots:
+
+Here are some screenshots of our application's interface: 
+
+![Application interface]("C:\Users\ignisbreath\Downloads\Screenshot-1.png")
+
 ## Licence:
 
 **MIT License**
